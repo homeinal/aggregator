@@ -6,3 +6,12 @@ venv/
 aggregator/
 .env
 .DS_Store
+
+# Secrets
+my_key.json
+
+# Generated Data
+captured_images/
+playwright_images/
+latest_status.json
+
