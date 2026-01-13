@@ -1,17 +1,93 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-.venv/
-venv/
-aggregator/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Environments
 .env
-.DS_Store
+.env.example
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Secrets
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# SQLite databases
+*.db
+*.sqlite3
+page_history.db
+
+# Secrets & API Keys
 my_key.json
+*.pem
+*.key
+secrets.json
+my_key_copy.json
+# OS files
+.DS_Store
+Thumbs.db
 
-# Generated Data
-captured_images/
-playwright_images/
-latest_status.json
+# Logs
+*.log
 
+# Results (optional - uncomment if you want to exclude)
+# results*.json
+my_key.json
