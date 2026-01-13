@@ -1,0 +1,90 @@
+from datetime import datetime
+from typing import List, Optional
+from pydantic import BaseModel, Field, HttpUrl, ConfigDict
+
+# ==========================================
+# 1. 공통 설정 (Base Configuration)
+# ==========================================
+class BaseSchema(BaseModel):
+    """
+    모든 스키마의 공통 설정을 정의합니다.
+    ORM 모드를 활성화하여 DB 객체를 Pydantic 모델로 변환할 수 있게 합니다.
+    """
+    model_config = ConfigDict(from_attributes=True)
+
+
+# ==========================================
+# 2. Race Category (대회 종목/코스) 스키마
+# ==========================================
+class RaceCategoryBase(BaseSchema):
+    """
+    RACE_CATEGORY 테이블의 기본 데이터 필드 정의
+    """
+    name: str = Field(..., description="종목/부문명 (예: 10km, Half, Full)")
+    fee: int = Field(0, description="참가비 (원 단위). 0이면 무료.")
+    qualification: Optional[str] = Field(None, description="참가자격 (예: 서브3 기록 보유자)")
+    start_time: Optional[str] = Field(None, description="출발시간 (Format: HH:mm)", pattern=r"^\d{2}:\d{2}$")
+    notes: Optional[str] = Field(None, description="종목별 기타 안내 사항")
+    
+    # 일정 관련 (접수/결제)
+    next_registration_at: Optional[datetime] = Field(None, description="다음 접수 시작일시")
+    next_registration_end_at: Optional[datetime] = Field(None, description="다음 접수 마감일시")
+    next_payment_at: Optional[datetime] = Field(None, description="다음 결제 시작일시")
+    next_payment_end_at: Optional[datetime] = Field(None, description="다음 결제 마감일시")
+
+class RaceCategoryCreate(RaceCategoryBase):
+    """생성 시 필요한 데이터 (Race ID는 별도 주입 가능)"""
+    race_id: str = Field(..., description="연관된 대회의 ID (FK)")
+
+class RaceCategory(RaceCategoryBase):
+    """DB에서 조회된 완전한 종목 정보 (ID, Timestamp 포함)"""
+    id: str = Field(..., description="종목 고유 ID (PK)")
+    race_id: str = Field(..., description="소속된 대회의 ID (FK)")
+    created_at: datetime
+    updated_at: datetime
+
+
+# ==========================================
+# 3. Race (대회 정보) 스키마
+# ==========================================
+class RaceBase(BaseSchema):
+    """
+    RACE 테이블의 기본 데이터 필드 정의
+    """
+    title: str = Field(..., description="대회명")
+    source_url: str = Field(..., description="크롤링 원본 URL (Unique Key 역할)")
+    event_date: datetime = Field(..., description="대회 개최 날짜")
+    
+    # 장소 정보
+    country: str = Field("South Korea", description="개최 국가")
+    region: str = Field(..., description="지역 (예: 서울, 경기) - 필터링 주요 키워드")
+    venue: Optional[str] = Field(None, description="구체적인 출발/집결 장소")
+    
+    # 주최자 정보
+    organizer: Optional[str] = Field(None, description="주최 기관명")
+    organizer_rep: Optional[str] = Field(None, description="주최 대표자명")
+    phone: Optional[str] = Field(None, description="문의 전화번호")
+    email: Optional[str] = Field(None, description="문의 이메일")
+    website: Optional[str] = Field(None, description="공식 웹사이트 URL")
+    
+    # 메타 정보
+    image_url: Optional[str] = Field(None, description="대표 이미지 URL")
+    general_guide: Optional[str] = Field(None, description="공통 안내 사항 (HTML 또는 Text)")
+    is_featured: bool = Field(False, description="추천 대회 여부 (메인 노출용)")
+
+class RaceCreate(RaceBase):
+    """대회 생성 시 사용하는 스키마"""
+    pass
+
+class Race(RaceBase):
+    """
+    DB에서 조회된 완전한 대회 정보.
+    1:N 관계인 categories를 포함합니다.
+    """
+    id: str = Field(..., description="대회 고유 ID (PK)")
+    created_at: datetime
+    updated_at: datetime
+
+    # Relationship (1:N)
+    # 하나의 대회는 여러 개의 코스(Category)를 가집니다.
+    categories: List[RaceCategory] = Field(default_factory=list, description="해당 대회의 종목 리스트")
