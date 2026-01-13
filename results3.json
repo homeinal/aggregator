@@ -1,0 +1,66 @@
+[
+  {
+    "id": "",
+    "title": "영남일보 국제 하프마라톤대회",
+    "source_url": "http://ynmarathon.kr/",
+    "event_date": "2026-04-12T00:00:00",
+    "country": "Korea",
+    "region": "대구",
+    "venue": "대구스타디움",
+    "organizer": "마라톤사무국",
+    "organizer_rep": null,
+    "phone": "1600-3949",
+    "email": null,
+    "website": "http://ynmarathon.kr/",
+    "image_url": null,
+    "general_guide": "참가신청은 2026년 1월 12일부터 시작되며, 평일 10:00~17:00에 문의 가능합니다. 점심시간은 12:00~13:00이며, 주말 및 공휴일은 운영되지 않습니다.",
+    "is_featured": false,
+    "categories": [
+      {
+        "id": "",
+        "race_id": "",
+        "name": "Half",
+        "fee": null,
+        "qualification": null,
+        "start_time": null,
+        "registration_start_time": null,
+        "application_method": null,
+        "notes": null,
+        "next_registration_at": "2026-01-12T00:00:00",
+        "next_registration_end_at": null,
+        "next_payment_at": null,
+        "next_payment_end_at": null
+      },
+      {
+        "id": "",
+        "race_id": "",
+        "name": "10km",
+        "fee": null,
+        "qualification": null,
+        "start_time": null,
+        "registration_start_time": null,
+        "application_method": null,
+        "notes": null,
+        "next_registration_at": "2026-01-12T00:00:00",
+        "next_registration_end_at": null,
+        "next_payment_at": null,
+        "next_payment_end_at": null
+      },
+      {
+        "id": "",
+        "race_id": "",
+        "name": "5km",
+        "fee": null,
+        "qualification": null,
+        "start_time": null,
+        "registration_start_time": null,
+        "application_method": null,
+        "notes": null,
+        "next_registration_at": "2026-01-12T00:00:00",
+        "next_registration_end_at": null,
+        "next_payment_at": null,
+        "next_payment_end_at": null
+      }
+    ]
+  }
+]

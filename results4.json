@@ -1,0 +1,66 @@
+[
+  {
+    "id": "",
+    "title": "제2회 한강 서울 하프 마라톤",
+    "source_url": "https://seoulhalfrun.kr/",
+    "event_date": "2026-01-25T00:00:00",
+    "country": "Korea",
+    "region": "서울",
+    "venue": "상암월드컵공원 평화광장",
+    "organizer": "사단법인 국민성공시대",
+    "organizer_rep": null,
+    "phone": null,
+    "email": null,
+    "website": "https://seoulhalfrun.kr/",
+    "image_url": null,
+    "general_guide": "모두가 함께 뛰는 즐거움! 참가비는 5km - 45,000원, 10km 및 하프 - 50,000원입니다. 접수기간은 ~ 2026.01.18 까지입니다.",
+    "is_featured": false,
+    "categories": [
+      {
+        "id": "",
+        "race_id": "",
+        "name": "5km",
+        "fee": 45000,
+        "qualification": null,
+        "start_time": "09:00",
+        "registration_start_time": null,
+        "application_method": null,
+        "notes": "코스: 평화광장 → 서울마포조정면허시험장 근처 반환 → 평화광장",
+        "next_registration_at": "2026-01-01T00:00:00",
+        "next_registration_end_at": "2026-01-18T00:00:00",
+        "next_payment_at": "2026-01-01T00:00:00",
+        "next_payment_end_at": "2026-01-18T00:00:00"
+      },
+      {
+        "id": "",
+        "race_id": "",
+        "name": "10km",
+        "fee": 50000,
+        "qualification": null,
+        "start_time": "09:00",
+        "registration_start_time": null,
+        "application_method": null,
+        "notes": "코스: 평화광장 → 난지천 공원 다목적 구장 버스정류장 반환 → 평화광장",
+        "next_registration_at": "2026-01-01T00:00:00",
+        "next_registration_end_at": "2026-01-18T00:00:00",
+        "next_payment_at": "2026-01-01T00:00:00",
+        "next_payment_end_at": "2026-01-18T00:00:00"
+      },
+      {
+        "id": "",
+        "race_id": "",
+        "name": "하프",
+        "fee": 50000,
+        "qualification": null,
+        "start_time": "09:00",
+        "registration_start_time": null,
+        "application_method": null,
+        "notes": "코스: 평화광장 → 창릉 천교 근처 반환 → 평화광장",
+        "next_registration_at": "2026-01-01T00:00:00",
+        "next_registration_end_at": "2026-01-18T00:00:00",
+        "next_payment_at": "2026-01-01T00:00:00",
+        "next_payment_end_at": "2026-01-18T00:00:00"
+      }
+    ]
+  }
+]
