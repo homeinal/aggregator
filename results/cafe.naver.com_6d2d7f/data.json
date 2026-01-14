@@ -1,0 +1,44 @@
+{
+  "id": "1f3b1916-32d0-4016-9adc-2ef85acc905c",
+  "title": "무의도구석구석국제트레일런대회",
+  "source_url": "http://cafe.naver.com/matrailrun/?viewType=pc",
+  "event_date": "2026-05-10T00:00:00",
+  "country": "한국",
+  "region": "인천",
+  "venue": "하나개해수욕장 및 일대",
+  "organizer": "서울신문사, 인천시 중구철인3종협회, 한국익스트림 앤 스포츠",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://cafe.naver.com/matrailrun/?viewType=pc",
+  "image_url": null,
+  "general_guide": "2026년 5월 10일 하나개해수욕장 및 일대에서 개최되는 국제 트레일런 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "d050d9d2-15a3-4383-a96b-567a5ad8bd6c",
+      "race_id": "1f3b1916-32d0-4016-9adc-2ef85acc905c",
+      "name": "20K",
+      "fee": null,
+      "qualification": null,
+      "start_time": "07:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "https://blogimgs.pstatic.net/blog20/blog/layout_photo/viewer2/btn_original2.png",
+      "text": "원본보기"
+    },
+    {
+      "url": "https://cafeptthumb-phinf.pstatic.net/MjAyNTEyMjVfNTQg/MDAxNzY2NjIzMDk2Nzk3.0GvtvvajajlF_1sBSCSA6u-I6-SKPZNOgtvlHHlLh3Ag.RRYY8lbhyZ0MB_1pAYGBvc62trst2M-HcD1CReaYa0Yg.JPEG/2026-%EC%B9%B4%ED%8E%98%EB%A9%94%EC%9D%B8_251225.jpg",
+      "text": "2026\n무의도 구석구석\n국제 트레일런 대회\nITRA UTMB INDEX 20K\n일시: 2026.05.10(일) 오전 7시 • 장소 : 하나개해수욕장 및 일대 • 모집인원 : 1,200명 • 주최 : 서울신문사 • 인천시 중구철인3종협회 • 한국익스트림 앤 스포츠"
+    }
+  ]
+}

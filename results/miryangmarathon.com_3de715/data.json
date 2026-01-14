@@ -1,0 +1,70 @@
+{
+  "id": "52b97ff3-c4bd-49da-a6f1-ce214bdaebd9",
+  "title": "제22회 밀양 아리랑 마라톤대회",
+  "source_url": "http://www.miryangmarathon.com",
+  "event_date": "2026-02-22T00:00:00",
+  "country": "한국",
+  "region": "밀양시",
+  "venue": "대한육상연맹공인마라톤 코스 일원 (집결장소 : 밀양종합운동장)",
+  "organizer": "밀양시",
+  "organizer_rep": null,
+  "phone": "055-359-5965",
+  "email": null,
+  "website": "http://www.miryangmarathon.com",
+  "image_url": null,
+  "general_guide": "2026년 2월 22일 밀양시 대한육상연맹공인마라톤 코스 일원에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "ec4db46c-36d0-4a17-bcd6-63497463661a",
+      "race_id": "52b97ff3-c4bd-49da-a6f1-ce214bdaebd9",
+      "name": "하프",
+      "fee": null,
+      "qualification": null,
+      "start_time": "10:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "dd6ac59c-72a4-47ea-93f3-4f717fd72a9f",
+      "race_id": "52b97ff3-c4bd-49da-a6f1-ce214bdaebd9",
+      "name": "10km",
+      "fee": null,
+      "qualification": null,
+      "start_time": "10:15",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "f986811f-2cee-4a6a-bff5-b4559c701f8e",
+      "race_id": "52b97ff3-c4bd-49da-a6f1-ce214bdaebd9",
+      "name": "5km",
+      "fee": null,
+      "qualification": null,
+      "start_time": "10:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.miryangmarathon.com/image/home/mem.jpg",
+      "text": "대회기념품 기능성 마라톤 티셔츠\nh\n자세히"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "8fc2a667-874c-49a8-955f-6ffadd02846e",
+  "title": "제2회 한강 서울 하프 마라톤",
+  "source_url": "http://seoulhalfrun.kr/",
+  "event_date": "2026-01-25T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "상암 월드컵공원 평화광장",
+  "organizer": "사단법인 국민성공시대",
+  "organizer_rep": null,
+  "phone": "02-888-8805",
+  "email": null,
+  "website": "http://seoulhalfrun.kr/",
+  "image_url": null,
+  "general_guide": "2026년 1월 25일 상암 월드컵공원 평화광장에서 개최되는 하프 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "e27b633b-0a25-4904-9128-857cabcad2a5",
+      "race_id": "8fc2a667-874c-49a8-955f-6ffadd02846e",
+      "name": "하프",
+      "fee": 50000,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "d7cb7db6-a252-4229-b30f-5ae87e287362",
+      "race_id": "8fc2a667-874c-49a8-955f-6ffadd02846e",
+      "name": "10km",
+      "fee": 50000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "058e231a-7520-4f01-a7ba-0e0e75ef972b",
+      "race_id": "8fc2a667-874c-49a8-955f-6ffadd02846e",
+      "name": "5km",
+      "fee": 45000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://seoulhalfrun.kr/img/2024/go_top_w.png",
+      "text": "↑"
+    },
+    {
+      "url": "http://seoulhalfrun.kr/pds/board/upload20251027_151901_0199657.jpg",
+      "text": "강\n운동장\n호반써밋아파트\nDMC한강자이\n더헤리티지\nGS칼텍스\n강변북로\n고양대덕\n생태공원\n가양6단지\n덕은리버워크\n지식산업센터\n가양대교\n아파트\n°\n단지\n가양7단지\n가양3파트\n먹은한강\n초등학교\n덕은한강\n중학교\n한강\n아파트\n강서구청\n가양동별관\n가양9단지\n아파트\nDMC\n더리버\nDMC에트르\n한강\n프라임\n트윈타워\n노을공원\n노을캠핑장\n난지캠핑장\n반려견동반캠핑장\n난지한강공원\n상암월드컵파크\n7단지아파트\n상암클린\n스테이션\n강변북로\n상암고등학교\n스탠포드호텔\n코리아\n상암DMC\n푸르지오시티\n현대오일뱅크\n상암문화광장\nKGIT센터\n상지초등학교\n상암중학교\n상암월드컵파크\nDOMC\n4단지아파트\n상암동\n주민센터\n겁난지\n상암월드컵파크\n8단지아파트\n홍콩 구급차 총동\n노을공원길\nKBS미디어\n센터\n어깨동무\n스토리움\n상암월드컵파크\n2단지아파트\n매봉산\n상암월드컵파크\n3단지아파트\n(93.9m)\n문화비축기지\n숲속피크닉마켓\nDMC센트럴자이\n이마트\nSK엔크린\n북가좌\n초등학교\n중소기업\nDMCE\n디지털미디어시티역\nDMC한양아파트\n북가좌1동\n불광천\n10km 반환점\n월드컵경기장역\n구급차\n하늘공원\n평화광장\nSTART\nFINISH\n마포농수산물\n시장\n중앙중학교\n성산시영\n아파트\n가재울\n고등학교\nSOILLPG\n신북초등학교\n성산2동\n성원초등학교\n박포구청\n상암미르한올림\n오피스텔\n난지연못\n서부공원\n녹지사업소\n마포구청역\n평화공원\n망원2동\n주민센터\n월드타운대림\n아파트\n성산2동\n주민센터\n내부순환도로\n현대오일뱅크\n성서중학교"
+    },
+    {
+      "url": "http://seoulhalfrun.kr/pds/board/upload20250501_163806_0682872.jpg",
+      "text": "행정복지센터\n10단지아파트\nDMC\n중안전센터\nDMC\n첨단산업센터\n파인시티자이\n증산동\n•\n증산중학교\n증산동\n주민센터\nDMC한강숲\n상암월드컵파크\nCLASS\n9단지아파트\nDMC한강\n아파트\n먹은한강중학교\n스탠포드호텔\n코리아\n상암클린\n스테이션\n상암고등학교\nDMC한강자이\n더헤리티지\nDMC자이\n더리버\n상지초등학교\n덕\n덕은리버워크\n지식산업센터\"\n원\n가양대교\n박3동\n38\n센터\n한강\n가양9단지\n아파트\n강서구립\n가양도서관\n(54.8m)\n194\n병원)\nSK엔크린\n노을공원\nㅁ*\n상암월드컵파크\n8단지아파트\n[메타쉐콰이어길 1차반환\n난지캠핑장\n⑤ 1차 반환점\n킴스클럽\n염창동\n난지한강공원\n강변북로\n・한강수상관광택시노선()\n어깨동무\n상암문화광장\n상암월드컵파크\n4단지아파트\nKBS미디어\n센터\n상암월드컵파크\n2단지아파트\n증산역\n불광천\n북가좌119\n안전센터\n중앙고등학교\n명지전문대학\n명지초등학교\nS-OIL\nDMC센트럴자이\n이마트\n북가좌2동북가좌2동\n주민센터\nO\n연가초등학교\n명지대학교\n인문캠퍼스\n문화\nSK엔크린\n상암동\n주민센터\nDMC래미안\n클라시스아파트\nDMC센트럴\n아이팟튼\n남가좌2동 주민센터\n남가좌2동\n북가좌\n초등학교\nMSERE\n중소기업\nDMC타워\n디지털미디어시\n중동교하부 인근\n래미안루센티아\nGS칼텍스\n고등학교\nDMC파크뷰자이\n2단지아파트\n남가좌\n아이파크\n안산도시\n자연공원\nLPG\n현대오일뱅크\n매봉산\n(93.9m)\n월드컵터널\nDMC래미안\ne편한세상1단지\nDMC파크뷰자이\n남가좌숭아파트\n산시영\n아파트\n문화비축기지\n숲속피크닉마켓\n신북초등학교\n사천교 하부인근\n평화광장\nSTART\n월드타운대림\n아파트\n성산2동\n2차 반환점\n하늘공원\nFINISH\n서울\n물보관센터\n성원초등학교\n중동초등학교\n구성\n마포농수\n시장\n18\n상암미르웰한올림\n오피스트\n연남동\n주민센터\n연희\n문빈출 1호\n서부공\n녹지사업\n성산1동\n주민센터\n현대오일뱅크\n이산1동\n성산근린공원\n경성고등학교 연남동\n망원2동\n주민센터\n망원2동\n홍익사대부속\n여자고등학교\nNEL\n망원월드컵\n시장\n동교초등학교\n마포구인\n월드컵대교\n체육센터\n망원시장\n망원역\n망원한강공원\n70000\n서교동\n10 주민센터\nSK엔크린\nSK엔크린\nCD\n홍대입구역\n아만티호텔\n서울\n스머프매직\n포레스트\n홍대\n연희대우\n아파트"
+    }
+  ]
+}

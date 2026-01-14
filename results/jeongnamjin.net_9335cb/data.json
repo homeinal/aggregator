@@ -1,0 +1,70 @@
+{
+  "id": "524b8769-a51f-46f7-9d95-da2275b02e7f",
+  "title": "제20회 정남진장흥 전국마라톤대회",
+  "source_url": "http://www.jeongnamjin.net",
+  "event_date": "2026-03-15T00:00:00",
+  "country": "한국",
+  "region": "전남",
+  "venue": "탐진강변",
+  "organizer": "장흥군육상연맹",
+  "organizer_rep": null,
+  "phone": "061-864-1188",
+  "email": "jnj42195@naver.com",
+  "website": "http://www.jeongnamjin.net",
+  "image_url": null,
+  "general_guide": "2026년 3월 15일 전남 장흥에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "c18c3e53-2ba7-4064-9c47-d93260305ba4",
+      "race_id": "524b8769-a51f-46f7-9d95-da2275b02e7f",
+      "name": "하프코스",
+      "fee": 35000,
+      "qualification": "신체 건강한 남녀 누구나",
+      "start_time": "09:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "9b9c0d89-e6a3-4e66-a8ec-7433c9549a8e",
+      "race_id": "524b8769-a51f-46f7-9d95-da2275b02e7f",
+      "name": "10km",
+      "fee": 35000,
+      "qualification": null,
+      "start_time": "09:40",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "bc00c3ce-c318-41c3-ae70-5b7fc99611be",
+      "race_id": "524b8769-a51f-46f7-9d95-da2275b02e7f",
+      "name": "5km",
+      "fee": 15000,
+      "qualification": null,
+      "start_time": "09:50",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.jeongnamjin.net/images/2025-cos.jpg",
+      "text": "BRAN\n부산교"
+    }
+  ]
+}

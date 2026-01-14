@@ -1,0 +1,55 @@
+{
+  "id": "a010937d-ef41-47cb-b31b-f4b845f334b4",
+  "title": "제4회 서울한강 울트라마라톤 대회",
+  "source_url": "http://www.seoul-hangang.kr",
+  "event_date": "2026-05-16T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "석관동 6-1 우이천 다목적광장",
+  "organizer": "서울 한강 울트라마라톤 대회 조직위원회",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://www.seoul-hangang.kr",
+  "image_url": null,
+  "general_guide": "2026년 5월 16일 서울 석관동 6-1 우이천 다목적광장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "31d94c99-5414-47b9-be30-dd5ea14dd898",
+      "race_id": "a010937d-ef41-47cb-b31b-f4b845f334b4",
+      "name": "100km",
+      "fee": 100000,
+      "qualification": "만 18세 이상 신체 건강한 남녀, 풀코스 완주 경험 권장",
+      "start_time": "17:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "7ceb5a29-0f85-443e-b684-d7cdb06e5d3a",
+      "race_id": "a010937d-ef41-47cb-b31b-f4b845f334b4",
+      "name": "50km",
+      "fee": 80000,
+      "qualification": "만 18세 이상 신체 건강한 남녀, 풀코스 완주 경험 권장",
+      "start_time": "17:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://ecimg.cafe24img.com/pg2148b15411788075/seoulhangang/web/upload/category/logo/v2_a65ea976618823124bdba70badba1067_QmAv5j2NeM_bottom.jpg",
+      "text": "서울한강 울트라마라톤 대회"
+    }
+  ]
+}

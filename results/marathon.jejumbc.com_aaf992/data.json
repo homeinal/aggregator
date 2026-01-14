@@ -1,0 +1,71 @@
+{
+  "id": "67fab776-23b1-40d8-8f36-74cb58424743",
+  "title": "2026 엘리트 X 마스터즈 제주MBC 국제평화마라톤",
+  "source_url": "http://marathon.jejumbc.com/",
+  "event_date": "2026-02-22T00:00:00",
+  "country": "한국",
+  "region": "제주",
+  "venue": "한림종합운동장",
+  "organizer": "한국실업육상연맹, 제주MBC",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://marathon.jejumbc.com/",
+  "image_url": null,
+  "general_guide": "2026년 2월 22일 한림종합운동장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "29fa0d88-99fe-4681-b898-1c9b9273901b",
+      "race_id": "67fab776-23b1-40d8-8f36-74cb58424743",
+      "name": "HALF",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "dd54c589-29b2-4791-a11a-1f9ec2675f36",
+      "race_id": "67fab776-23b1-40d8-8f36-74cb58424743",
+      "name": "10km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://marathon.jejumbc.com/16_mbcm/images/ad36.jpg",
+      "text": "한림수협"
+    },
+    {
+      "url": "http://marathon.jejumbc.com/16_mbcm/images/ad58.jpg",
+      "text": "asics\nsound mind, sound body"
+    },
+    {
+      "url": "http://marathon.jejumbc.com/16_mbcm/images/course_high_2024-1.jpg",
+      "text": "Elevation (m)\n10 2024 Google\n켄싱턴리조트 제주한림\n수원리\n곽지해수욕장\n늬거리패션\n1132\n귀덕6길\n귀덕4길\n수리\n대림리\n대림로\n귀덕리\n귀덕로\nFA\n8483 1136\n금성리\n봉성식당\n수원각로\n1132\n한상로\n장원길\n광산로\n2024.00\n한림농협 하나로마트\n김리\n애월리\n곽남로\n1136\nHU\n원로\n1136\n납읍로\n천덕로\nREZIO\n남읍리\n어림비로\n1121\n11\n옹포리\n1136\n협재해변\n1132\n1116\n아르떼,뮤지엄 제주\nM\n1120\n동명리\n상대리\n금능해수욕장\n하운당길\n성대2길\n협재굴\nOR\n00:00\n00:05\n00:10\n00:15\n00:20\n00:25\n00:30\n00:35\n00:40\n00:45\n00:50\n00:55\n01:00\n01:05\n01:10\n01:15\n01:20\n01:25"
+    },
+    {
+      "url": "http://marathon.jejumbc.com/16_mbcm/images/logo_l.png",
+      "text": "2026 국제평화마라톤"
+    },
+    {
+      "url": "http://marathon.jejumbc.com/16_mbcm/images/ad60.jpg",
+      "text": "'제주아이스크림(주)"
+    }
+  ]
+}

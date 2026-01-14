@@ -1,0 +1,93 @@
+{
+  "id": "32e7dc24-baf0-4b31-85d8-8c69b27df77c",
+  "title": "제24회 통일기원 포항 마라톤대회",
+  "source_url": "http://phrun.co.kr/",
+  "event_date": "2026-04-26T00:00:00",
+  "country": "한국",
+  "region": "포항",
+  "venue": "종합운동장",
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": "054-241-0855",
+  "email": null,
+  "website": "http://phrun.co.kr/",
+  "image_url": null,
+  "general_guide": "2026년 4월 26일 포항 종합운동장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "ae58ec44-457f-4fb6-835e-dc1cc9f5f637",
+      "race_id": "32e7dc24-baf0-4b31-85d8-8c69b27df77c",
+      "name": "하프코스",
+      "fee": 40000,
+      "qualification": null,
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "534ecaee-e277-49f7-90aa-e859cea0a619",
+      "race_id": "32e7dc24-baf0-4b31-85d8-8c69b27df77c",
+      "name": "10Km",
+      "fee": 35000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "b061eecd-de7c-44ad-ba70-e085f502ea84",
+      "race_id": "32e7dc24-baf0-4b31-85d8-8c69b27df77c",
+      "name": "5km건강달리기",
+      "fee": 25000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "63860155-b50c-46d4-ba21-dcb76f125d1e",
+      "race_id": "32e7dc24-baf0-4b31-85d8-8c69b27df77c",
+      "name": "5km장애인부",
+      "fee": 25000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://phrun.co.kr/images/sub/2023_course_10km.jpg",
+      "text": "실내체육관\n포항세명\n기독병원\nSTART/FINISH\n10km\n포스코\n대교\n포항역\n북구청\n죽도시장\n선린병원\n포항고속\n버스터미널\n동빈큰다리\n사거리\n코모도호텔\n태왕아너스\n포항비치\nO\n수협\n물관리센터\n해양경찰서\n형산강파출소\n10km\n반환점"
+    },
+    {
+      "url": "http://phrun.co.kr/ohzin_uploads/popup/20251231.png",
+      "text": "10km 부문\n접수마감\n참가자분들의 많은 성원에 감사드립니다.\n모두가 만족할 수 있는 대회로 보답하겠습니다!\n제24회 통일기원\n포함\n마라톤대회"
+    },
+    {
+      "url": "http://phrun.co.kr/images/sub/2023_course_half.jpg",
+      "text": "실내체육관\n포항세명\n기독병원\nSTART/FINISH\nHalf\n포스코\n대교\n포항역\n북구청\n죽도시장\n포항고속\n버스터미널\n동빈큰다리\n사거리\n선린병원\n코모도호텔\n태왕아너스\n포항비치\n수협\n물관리센터\n영일대\n해수욕장\n장량동\n해양경찰서\n형산강파출소\n환호공원\n환여동\n하프\n반환점"
+    }
+  ]
+}

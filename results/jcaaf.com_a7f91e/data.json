@@ -1,0 +1,44 @@
+{
+  "id": "63a8dc4e-b5d8-4dec-be06-29f0ed1651ce",
+  "title": "의림지삼한초록길알몸마라톤대회",
+  "source_url": "http://jcaaf.com",
+  "event_date": "2026-01-11T00:00:00",
+  "country": "한국",
+  "region": "충북",
+  "venue": "제천의림지 수변무대",
+  "organizer": "제천시육상연맹",
+  "organizer_rep": null,
+  "phone": "010-8841-4319010-5487-4673",
+  "email": null,
+  "website": "http://jcaaf.com",
+  "image_url": null,
+  "general_guide": "2026년 1월 11일 제천의림지 수변무대에서 개최되는 알몸마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "efc3d9e6-808e-4e1a-8dfa-e76a1c5fd1cf",
+      "race_id": "63a8dc4e-b5d8-4dec-be06-29f0ed1651ce",
+      "name": "7Km",
+      "fee": 40000,
+      "qualification": "신체건강한 남, 여",
+      "start_time": "11:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://jcaaf.com/data/file/gallery/thumb-2113528221_njObwve7_a13b6fa271b70ccf441cc68f93351480f035b2f2_380x277.jpg",
+      "text": "100\n3030\n20"
+    },
+    {
+      "url": "http://mts.daumcdn.net/api/v1/tile/PNGSD02/v16_xfdwm/latest/4/916/660.png",
+      "text": "400m"
+    }
+  ]
+}

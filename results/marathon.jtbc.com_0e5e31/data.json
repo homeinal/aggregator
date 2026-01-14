@@ -1,0 +1,32 @@
+{
+  "id": "107223b4-d758-4c7a-b0ea-5967e67b71e9",
+  "title": "null",
+  "source_url": "http://marathon.jtbc.com/",
+  "event_date": "2026-11-01T00:00:00",
+  "country": "한국",
+  "region": "null",
+  "venue": "null",
+  "organizer": "null",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://marathon.jtbc.com/",
+  "image_url": null,
+  "general_guide": "null",
+  "is_featured": false,
+  "categories": [],
+  "content_images": [
+    {
+      "url": "https://cdn.imweb.me/thumbnail/20260113/cebdf3aabf31d.png",
+      "text": "2026 JTBC SEOUL MARATHON"
+    },
+    {
+      "url": "https://cdn.imweb.me/thumbnail/20251216/0280fed217f59.png",
+      "text": "2026\nJTBC\nSEOUL\nMARATHON\n2026. 11. 1. SUN"
+    },
+    {
+      "url": "https://cdn.imweb.me/upload/S2024123139207e223cc8a/d7f9a6aab57e8.png",
+      "text": "N71 LIEC"
+    }
+  ]
+}

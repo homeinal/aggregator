@@ -1,0 +1,36 @@
+{
+  "id": "edda690d-e9ae-4097-bfd2-bcc3c4f684ef",
+  "title": "소중한 추억과 가치를 만들어가는 환경사랑 K-런",
+  "source_url": "http://k-marathon.or.kr",
+  "event_date": null,
+  "country": "한국",
+  "region": null,
+  "venue": null,
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://k-marathon.or.kr",
+  "image_url": null,
+  "general_guide": null,
+  "is_featured": false,
+  "categories": [],
+  "content_images": [
+    {
+      "url": "http://k-marathon.or.kr/images/sub/kakaotalkLogo.png",
+      "text": "TALK"
+    },
+    {
+      "url": "http://k-marathon.or.kr/images/busan/common/logo_new03.png",
+      "text": "2026 환경사랑\n부산 K-런\n|"
+    },
+    {
+      "url": "http://k-marathon.or.kr/images/common/service_02.png",
+      "text": "참가접수"
+    },
+    {
+      "url": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
+      "text": "Google"
+    }
+  ]
+}

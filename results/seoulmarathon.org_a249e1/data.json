@@ -1,0 +1,71 @@
+{
+  "id": "98aaaf6a-51c0-451b-a41c-5d31971e1dc6",
+  "title": "서울 K-마라톤대회",
+  "source_url": "http://seoulmarathon.org/main.php",
+  "event_date": "2026-03-22T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "광화문 광장 앞 대로",
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://seoulmarathon.org/main.php",
+  "image_url": null,
+  "general_guide": "2026년 3월 22일 서울 광화문 광장 앞 대로에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "eb0d1c45-8ffb-4e19-bc81-71bbd33a980c",
+      "race_id": "98aaaf6a-51c0-451b-a41c-5d31971e1dc6",
+      "name": "Half",
+      "fee": 70000,
+      "qualification": "만 18세 이상 신체 건강한 남, 여",
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "6bfdb44a-0303-4455-9276-6daa54322d10",
+      "race_id": "98aaaf6a-51c0-451b-a41c-5d31971e1dc6",
+      "name": "10km",
+      "fee": 60000,
+      "qualification": "누구나 참여 가능",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://seoulmarathon.org/images/main/main_info_pic03_07.png",
+      "text": "H"
+    },
+    {
+      "url": "http://seoulmarathon.org/images/main/main_info_pic04_01.jpg",
+      "text": "A500\nLife's\nGood.\n불법주정차 무인 단속중\n이제\n전문케어\n받는 시대."
+    },
+    {
+      "url": "http://seoulmarathon.org/images/main/main_info_pic05.png",
+      "text": "2014 Street\n56 Aver\noud Cresce\n54 Avenu\n201A Street\n56 Avenue\nDouglas Cres"
+    },
+    {
+      "url": "http://seoulmarathon.org/images/main/logo_NewKr05.png",
+      "text": "2026 Seoul K- International Marathon\n서울 K- 마라톤대호"
+    },
+    {
+      "url": "http://seoulmarathon.org/images/common/logo03_01.png",
+      "text": "2026 Seoul K- International Marathon\n서울 K- 마라톤대호"
+    }
+  ]
+}

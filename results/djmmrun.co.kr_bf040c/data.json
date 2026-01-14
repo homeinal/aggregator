@@ -1,0 +1,35 @@
+{
+  "id": "c6804df6-7ed2-4761-b188-acf4b40ddfe9",
+  "title": "2026 선양 맨몸마라톤",
+  "source_url": "http://www.djmmrun.co.kr/index.php",
+  "event_date": "2026-01-01T00:00:00",
+  "country": "한국",
+  "region": "대전",
+  "venue": "엑스포과학공원 물빛광장(한빛탑 앞 광장)",
+  "organizer": "㈜선양소주",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://www.djmmrun.co.kr/index.php",
+  "image_url": null,
+  "general_guide": "2026년 1월 1일 대전 엑스포과학공원 물빛광장에서 개최되는 맨몸마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "8fcbc3f5-054d-4f2b-a39b-4b4a269d66b1",
+      "race_id": "c6804df6-7ed2-4761-b188-acf4b40ddfe9",
+      "name": "7km",
+      "fee": 30000,
+      "qualification": "제한 없음",
+      "start_time": "11:11",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": []
+}

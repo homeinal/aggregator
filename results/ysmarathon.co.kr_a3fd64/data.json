@@ -1,0 +1,93 @@
+{
+  "id": "8b745715-7e98-4aac-b4c6-635dc634e522",
+  "title": "제 20회 여수해양마라톤대회",
+  "source_url": "http://ysmarathon.co.kr/",
+  "event_date": "2026-01-11T00:00:00",
+  "country": "한국",
+  "region": "여수",
+  "venue": "여수진남경기장",
+  "organizer": "여수마라톤대회 추진위원회",
+  "organizer_rep": null,
+  "phone": "061-921-6600",
+  "email": null,
+  "website": "http://ysmarathon.co.kr/",
+  "image_url": null,
+  "general_guide": "2026년 1월 11일 여수진남경기장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "fea1ceb3-7282-4c64-9c51-71d7ca4bbe1f",
+      "race_id": "8b745715-7e98-4aac-b4c6-635dc634e522",
+      "name": "풀코스",
+      "fee": 40000,
+      "qualification": "나이제한 없으며, 신체 건강한 남/여",
+      "start_time": "09:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "cabf90fc-239e-498c-9129-006ad316619d",
+      "race_id": "8b745715-7e98-4aac-b4c6-635dc634e522",
+      "name": "하프코스",
+      "fee": 35000,
+      "qualification": "나이제한 없으며, 신체 건강한 남/여",
+      "start_time": "09:40",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "699928ad-daf7-4ce3-b7ed-4eb888523774",
+      "race_id": "8b745715-7e98-4aac-b4c6-635dc634e522",
+      "name": "10km",
+      "fee": 25000,
+      "qualification": "나이제한 없으며, 신체 건강한 남/여",
+      "start_time": "09:50",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "dc1868c9-ce3f-4ca1-a32f-7feaf345e477",
+      "race_id": "8b745715-7e98-4aac-b4c6-635dc634e522",
+      "name": "5km",
+      "fee": 10000,
+      "qualification": "나이제한 없으며, 신체 건강한 남/여",
+      "start_time": "10:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://ysmarathon.co.kr/static/media/logo.9d1315be6f0324e7da14.jpg",
+      "text": "제20회\n여수해양 마라톤대회"
+    },
+    {
+      "url": "http://ysmarathon.co.kr/static/media/course.605f6c5c9b49b9d01d76.jpeg",
+      "text": "m)\n17\n첨산\n(164.8m)\n목도\n제20회 여수해양마라톤\n풀코스 코스도 Full Course Map\n전남대학교\n여수산학융합캠퍼스\n전봉산\n(379.3m)\n소호항\n호랑산\n(482.5m)\n영취산\n(509.6m)\n[77\n77\n77\n해양경찰교육원\n봉화산\n천성산\n(467.2m)\n봉화산\n제석산\n(335.9m)\n-여수신항\n동 6급수\n한구미터널\n1차 풀\n반환\n남해\n동급수\n신덕함\n신덕해수욕장\n부암산\n동 4급수\n모모사금\n해수욕장\n동 3급수\n여천역\n(360m)\n2차 풀\n반 환\n여수시티파크\n리조트골프장\n전남대\n여수캠퍼스\n만성리\n동 2급수 검은 모래 해변\n미평산림욕장\n|동 1급수\nC\n레일바이크\n여수시청\n본청\n서 2급수\n망마산\n(141.7m)\n한려아파트\n호암산\n(279.9m)\n풀코스 1차\n미래산\n고락산\n서1급수\n망마경기장\n(337.4m)\n여수고속버스\n+34.9m)\n출발·도착지\n진남운동장\n터미널\n17\n여수시청\n여서청사\n100\n여수엑스포역\n여수현대\n아파트\n장군산\n(324.9m)\n종고산\n(199.4m)\n포함\n광양항-여수신항\n제주항\n엑스포-오동도\n오동도\n백도\n광양항-여수신항"
+    },
+    {
+      "url": "http://ysmarathon.co.kr/static/media/course4.5bdc8e8aa9ddd877644c.jpeg",
+      "text": "여천역\n제20회 여수해양마라톤\n미평산림욕장\n5km코스 코스도 5km Course\n호암산\n(279.9m)\n나\n한려아파트\nm)\n여수시청\n고락산\n본청\n(337.4m)\n망마경기장\n망마산\n(141.7m)\n봉화산\n(360m)\n만성리\n검은모래해변\n동 1급수\n5km\n반 환\n미래산\n4.9m)\n출발·도착지\n진남운동장\n파\n여수고속버스\n터미널\n17\n여수시청\n여서청사\nD\n여수엑스포역\n스포함\n•제주항\n광양항이"
+    }
+  ]
+}

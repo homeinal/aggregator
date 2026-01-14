@@ -1,0 +1,112 @@
+{
+  "id": "5de70774-42a4-4aef-8ede-9847f77a0b60",
+  "title": "“희망드림” 제 23회 동계국제마라톤대회",
+  "source_url": "http://dkrun.co.kr",
+  "event_date": "2026-02-21T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "여의도 한강공원 물빛광장",
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": "02-2647-4488",
+  "email": null,
+  "website": "http://dkrun.co.kr",
+  "image_url": null,
+  "general_guide": "2026년 2월 21일 여의도 한강공원 물빛광장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "7690a493-4612-4da4-a3dd-575ecbae48b0",
+      "race_id": "5de70774-42a4-4aef-8ede-9847f77a0b60",
+      "name": "32.195km",
+      "fee": 60000,
+      "qualification": null,
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "528daf22-793d-41ea-b247-706d5276b7ca",
+      "race_id": "5de70774-42a4-4aef-8ede-9847f77a0b60",
+      "name": "하프",
+      "fee": 50000,
+      "qualification": null,
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "e501218a-dd38-4f26-80a2-b0ea9ce2dfcd",
+      "race_id": "5de70774-42a4-4aef-8ede-9847f77a0b60",
+      "name": "10km",
+      "fee": 50000,
+      "qualification": null,
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "c412cb8b-9a61-457c-9f70-7390f23a2d6e",
+      "race_id": "5de70774-42a4-4aef-8ede-9847f77a0b60",
+      "name": "10Km커플",
+      "fee": 50000,
+      "qualification": null,
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "85a6d927-1dd7-4d11-9c43-a8d8c01e8ec0",
+      "race_id": "5de70774-42a4-4aef-8ede-9847f77a0b60",
+      "name": "5km",
+      "fee": 40000,
+      "qualification": null,
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://dkrun.co.kr/images/main/banner/kakao_dkrun.png",
+      "text": "카카오톡 채널 오픈\n대회 관련 내용이 궁굼하다면!\nen @동계마라톤대회"
+    },
+    {
+      "url": "http://dkrun.co.kr/images/common/layout/link_img_03.png",
+      "text": "г"
+    },
+    {
+      "url": "http://dkrun.co.kr/images/sub/intro/intro0.png",
+      "text": "한국마라톤연맹\nKOREA MARATHON FEDERATION"
+    },
+    {
+      "url": "http://dkrun.co.kr/images/sub/intro/intro3.jpg",
+      "text": "일화"
+    }
+  ]
+}

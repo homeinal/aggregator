@@ -1,0 +1,123 @@
+{
+  "id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+  "title": "2026 전마협 청주 무심천 투데이 마라톤대회",
+  "source_url": "http://www.run1080.com/new/mini/index.php?code=1518",
+  "event_date": "2026-02-21T00:00:00",
+  "country": "한국",
+  "region": "청주",
+  "venue": "무심천 롤러스케이트장",
+  "organizer": "전국마라톤협회",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://www.run1080.com/new/mini/index.php?code=1518",
+  "image_url": null,
+  "general_guide": "2026년 2월 21일 청주 무심천 롤러스케이트장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "78a2bd25-ab65-4f05-9271-b886728395b0",
+      "race_id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+      "name": "5km 티셔츠",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "8edd0b81-8282-45b5-a13a-73a078a7d268",
+      "race_id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+      "name": "10km 티셔츠",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "c642ca6c-6292-4127-9c82-178398092d15",
+      "race_id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+      "name": "Half 티셔츠",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "14143bb3-1e8e-4252-b665-36fc9f00810f",
+      "race_id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+      "name": "5km 카본제트4",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "1d87b7a0-848d-4026-b2eb-589760fd741a",
+      "race_id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+      "name": "10km 카본제트4",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "3b853f5b-386b-4084-8081-838bc63bf823",
+      "race_id": "c0cf70ed-a40a-4d5e-aa9a-1e33ede6efec",
+      "name": "Half 카본제트4",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.run1080.com/uploadFolder/banner/20251215/693f8f94c54c2.jpg",
+      "text": "제2회 영광\n광품마라톤대회\n1080\nRON\n3.22\n영광광풍 MARATHON"
+    },
+    {
+      "url": "http://www.run1080.com/uploadFolder/banner/20251104/6909a25d2e69d.jpg",
+      "text": "2026 출발시간: 오후 3시\n전마협 청주 무심천\n노을 마라톤 2. 21.目"
+    },
+    {
+      "url": "http://www.run1080.com/uploadFolder/banner/20250926/68d600570d800.jpg",
+      "text": "2026 전마협\n청주 무심천투데이\n마라톤대회 2월22일 일"
+    }
+  ]
+}

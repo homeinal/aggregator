@@ -1,0 +1,86 @@
+{
+  "id": "df0a6cef-80e6-4efc-af1f-cf4ebcfc9367",
+  "title": "2026 화성 궁평항 동계훈련 마라톤 대회",
+  "source_url": "http://kihogprun.co.kr/",
+  "event_date": "2026-01-31T00:00:00",
+  "country": "한국",
+  "region": "화성",
+  "venue": "궁평항 일원",
+  "organizer": "화성 궁평항 마라톤 사무국",
+  "organizer_rep": null,
+  "phone": "1600-3962",
+  "email": "road42195@naver.com",
+  "website": "http://kihogprun.co.kr/",
+  "image_url": null,
+  "general_guide": "2026년 1월 31일 화성 궁평항 일원에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "a8af5a70-ddb3-4b11-a8b8-e97f146a1a61",
+      "race_id": "df0a6cef-80e6-4efc-af1f-cf4ebcfc9367",
+      "name": "32km코스",
+      "fee": 60000,
+      "qualification": null,
+      "start_time": "09:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "7f2ba93f-d557-4440-a39d-21299410aaa1",
+      "race_id": "df0a6cef-80e6-4efc-af1f-cf4ebcfc9367",
+      "name": "하프코스",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "f6bb0934-c268-4127-87f1-78e8001be8cd",
+      "race_id": "df0a6cef-80e6-4efc-af1f-cf4ebcfc9367",
+      "name": "10km코스",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://kihogprun.co.kr/img/num.jpg",
+      "text": "100\n100\n[올바른 부착]\n[잘못된 부착]\n100"
+    },
+    {
+      "url": "http://kihogprun.co.kr/img/images/btn01.png",
+      "text": "1인\n개인 신청"
+    },
+    {
+      "url": "http://kihogprun.co.kr/2025course/32.jpg",
+      "text": "32코스 2차반환점\n궁평항\n32코스 4차반환점\n코스설명\nSTART\n&FINISH\n32코스 3차반환점\n마도산업단지\n32코스 1차반환점\n32km코스\n행사장(출발) 반려마루화성 삼거리(1차반환) 행사장 삼거리 → 김가공센터 삼거리(2차반환)→\n화성호 다리 삼거리(3차반환) 김가공센터 삼거리(4차반환) 행사장(골인)"
+    },
+    {
+      "url": "http://kihogprun.co.kr/img/images/btn09.jpg",
+      "text": "昌\n30인 이상\n단체 신청 양식\n작성 후 이메일 또는 카카오톡으로\n보내주시기 바랍니다."
+    },
+    {
+      "url": "http://kihogprun.co.kr/img/text.png",
+      "text": "2026\n화성 궁평항 동계 훈련 마라톤대회\n겨울, 다시 시작하는 훈련! 화성 궁평항이 당신의 기록을 깨다\n32.195km코스, 하프코스, 10km코스\n2026년 1월 31일(토) 궁평항 일원 9시 30분 출발/8시 30분 집결"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "7cece0b2-ccf6-4e2f-a2f5-fbf1079ed8b2",
+  "title": "제61회 광주일보 3.1절 전국마라톤대회",
+  "source_url": "http://31marathon.kr/",
+  "event_date": "2026-03-01T00:00:00",
+  "country": "한국",
+  "region": "전라남도",
+  "venue": "화순군 청풍면 풍암리 93-9번지 (화순파크골프장 일원)",
+  "organizer": "광주일보, 전남문화, 아시아문화",
+  "organizer_rep": null,
+  "phone": "061-375-1201",
+  "email": "ds4bjt@hanmail.net",
+  "website": "http://31marathon.kr/",
+  "image_url": null,
+  "general_guide": "2026년 3월 1일 화순군 청풍면에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "493270ec-dc68-4eb2-ad58-8c5e38397935",
+      "race_id": "7cece0b2-ccf6-4e2f-a2f5-fbf1079ed8b2",
+      "name": "하프",
+      "fee": 40000,
+      "qualification": null,
+      "start_time": "08:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "11e7f55b-a6c1-4542-a71b-fc5f39087c17",
+      "race_id": "7cece0b2-ccf6-4e2f-a2f5-fbf1079ed8b2",
+      "name": "10km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://31marathon.kr/images/2026_daehe.png",
+      "text": "대회명 제61회 광주일보 3.1절 전국마라톤대회\n대회기간 2026년 3월 1일(일) 출발 08:30\n장소 화순군 청풍면 풍암리 93-9번지 (화순파크골프장 일원)\n주 최 광주일보, 전남문화, 아시아문화\n주관 마라톤세상\n후 원 광주광역시, 전라남도, 광주광역시교육청\n종목 10km (2회전), 하프(4회전)"
+    }
+  ]
+}

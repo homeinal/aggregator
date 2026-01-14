@@ -1,0 +1,85 @@
+{
+  "id": "f1dc1e81-9e02-4f17-ba52-f8879fe88c5e",
+  "title": "제9회산불조심한국서울마라톤대회",
+  "source_url": "http://koreatrail.net",
+  "event_date": "2026-02-22T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "탄천 광평교",
+  "organizer": "한국트레일러너연맹",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://koreatrail.net",
+  "image_url": null,
+  "general_guide": "2026년 2월 22일 탄천 광평교에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "8fd70611-2edc-4a9a-af17-d95d013c3901",
+      "race_id": "f1dc1e81-9e02-4f17-ba52-f8879fe88c5e",
+      "name": "풀코스",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "381b3d30-27c7-4627-bdc5-b9e5526ae40f",
+      "race_id": "f1dc1e81-9e02-4f17-ba52-f8879fe88c5e",
+      "name": "하프코스",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "5e78310e-4713-4daf-98a7-0895b25dada3",
+      "race_id": "f1dc1e81-9e02-4f17-ba52-f8879fe88c5e",
+      "name": "10km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "29ee246e-6b9a-4280-b40d-742f1b34982b",
+      "race_id": "f1dc1e81-9e02-4f17-ba52-f8879fe88c5e",
+      "name": "5km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "https://img.youtube.com/vi/GIG-oMtM5f4/maxresdefault.jpg",
+      "text": "백두대간 소백산\n죽고종주 트레일러닝"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "245b7a04-98a1-4856-82d8-1193c32907fd",
+  "title": "2026 옥스팜 트레일워커",
+  "source_url": "http://www.oxfamtrailwalker.or.kr/ko/",
+  "event_date": "2026-05-16T00:00:00",
+  "country": "한국",
+  "region": "강원도",
+  "venue": "인제",
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://www.oxfamtrailwalker.or.kr/ko/",
+  "image_url": null,
+  "general_guide": "2026년 5월 16일 강원도 인제에서 개최되는 옥스팜 트레일워커 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "4fec9e2e-2593-4fa5-a2cc-71c58eb7d388",
+      "race_id": "245b7a04-98a1-4856-82d8-1193c32907fd",
+      "name": "100K",
+      "fee": 500000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "2be1cbfe-0ac8-46c5-ab57-8fafeb26c276",
+      "race_id": "245b7a04-98a1-4856-82d8-1193c32907fd",
+      "name": "50K",
+      "fee": 300000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "1cf733dc-970a-4fb8-bd36-bce6c8089aff",
+      "race_id": "245b7a04-98a1-4856-82d8-1193c32907fd",
+      "name": "25K",
+      "fee": 150000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.oxfamtrailwalker.or.kr/img-donation-guide-popup.jpg",
+      "text": "기부펀딩을 통해 만들 수 있는 변화\n50만원\n100만원\n270만원\n가정용 변기 4개\n화장실 세트 3개\n워터펌프 1개\n4개 가정에 깨끗하게\n화장실을 이용할 수 있는\n가정용 변기를 선물해주세요\n₩500,000 Providing 4\nhouseholds with clean toilets\nfor use in their homes\n긴급구호 현장에서 안전하게\n사용할 수 있는 화장실 3세트를\n선물해주세요\n₩1,000,000 Providing 3 sets\nof toilets that can safety used\nat emergency relief sites\n한 마을이 먼 길을 가지\n않아도 깨끗한 물을 사용할 수\n있는 펌프를 선물해주세요\n₩2,700,000 Support for pumps\nthat provide clean water without\nhaving to travel far from a village\n450만원\n720만원\n960만원\n고무탱크 3개\n구호텐트 2동\n물탱크와 받침대 1세트(대)\nunicef\nOXFAM\n긴급구호 현장에서 빠르게\n물을 공급할 수 있는 고무탱크\n3개를 선물해주세요\n₩4,500,000 Provides three\nrubber tanks to quickly supply\nwater at emegency relief sites\n현장에서 임시 병원이나\n대피소로 사용할 수 있는\n구호텐트 2동을 선물해주세요\n₩7,200,000 Providing two relief\ntents that can be used as temporary\nhospitals or shelters at relief sites\n한 가족이 깨끗한 물을 사용할 수\n있는 튼튼한 물탱크 세트 지원\n₩9,600,000 Supporting a set of\nstudying water wanks to ensure a\nfamily has access to clean water"
+    },
+    {
+      "url": "https://asset.oxfamtrailwalker.or.kr/2025-12/inje_athletic_logo.jpg",
+      "text": "인제군체육회"
+    }
+  ]
+}

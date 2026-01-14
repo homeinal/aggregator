@@ -1,0 +1,86 @@
+{
+  "id": "afd8d786-ef89-4331-9b0f-1eb19b7c6ffe",
+  "title": "2026 청춘 릴레이 마라톤",
+  "source_url": "http://youngrun.kr/",
+  "event_date": "2026-02-21T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "상암월드컵공원 평화광장",
+  "organizer": "재한다문화총연합회",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://youngrun.kr/",
+  "image_url": null,
+  "general_guide": "2026년 2월 21일 상암월드컵공원 평화광장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "24c44d0c-6a60-4a60-8e7a-33e2f6134a2d",
+      "race_id": "afd8d786-ef89-4331-9b0f-1eb19b7c6ffe",
+      "name": "5km",
+      "fee": 60000,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "6b083a95-bed6-4a1d-9772-b3f43eaf9a0c",
+      "race_id": "afd8d786-ef89-4331-9b0f-1eb19b7c6ffe",
+      "name": "10km",
+      "fee": 60000,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "82bfb30b-1341-4aa4-b917-4e4b7147d709",
+      "race_id": "afd8d786-ef89-4331-9b0f-1eb19b7c6ffe",
+      "name": "하프",
+      "fee": 60000,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://mts.daumcdn.net/api/v1/tile/PNGSD02/v16_xfdwm/latest/4/999/432.png",
+      "text": "마포구보건소\n°\n마포구청\n이안상암\n오피스텔\n서울성원\n초등학교\n상암두산위브\n센티움오피스텔\n상암미르웰\n한올림오피스텔\n상과 스위트포레\n⑧ 오피스텔\n(2)\n성산아파트\n6\n마포구청역\n성산동\n아파트\n내부순환로\n성산로\nE"
+    },
+    {
+      "url": "http://mts.daumcdn.net/api/v1/tile/PNGSD02/v16_xfdwm/latest/4/1001/428.png",
+      "text": "클럽하우스\n풋살장\n하늘공원로\nP\n공영\n한국지역난방"
+    },
+    {
+      "url": "https://akcdn-okimghosting.cafe24img.com/young/young_main_01.jpg",
+      "text": "10km 888 883\nA"
+    },
+    {
+      "url": "http://mts.daumcdn.net/api/v1/tile/PNGSD02/v16_xfdwm/latest/4/999/428.png",
+      "text": "앙잔디광장\n조각공원\n익스트림장\nGS25\nBMX파크\nP\n공영\n주"
+    },
+    {
+      "url": "http://mts.daumcdn.net/api/v1/tile/PNGSD02/v16_xfdwm/latest/4/1000/432.png",
+      "text": "상가동 Carlision\n중앙중학교\n아ㅍ\n글도\n마서\n성작\n눔교회\n曲\n성산시영\n아파트\n교통안전공단\n자동차검사소\n서울신북\n성산119\n안전센터\n초등학교\n하나로마트\n성산점\n\"성산2차\n계통\ne편한세상아파\n태영휘트\n성산2동"
+    }
+  ]
+}

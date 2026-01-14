@@ -1,0 +1,82 @@
+{
+  "id": "4445b4e5-7dc8-42eb-bdc3-18ce38af98cf",
+  "title": "2026 고양특례시 하프마라톤",
+  "source_url": "http://www.goyangmarathon.com/",
+  "event_date": "2026-03-08T00:00:00",
+  "country": "한국",
+  "region": "고양",
+  "venue": "고양종합운동장",
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://www.goyangmarathon.com/",
+  "image_url": null,
+  "general_guide": "2026년 3월 8일 고양종합운동장에서 개최되는 하프마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "db10b3cb-14a9-4b8d-8f5a-d203257a7e28",
+      "race_id": "4445b4e5-7dc8-42eb-bdc3-18ce38af98cf",
+      "name": "하프",
+      "fee": 70000,
+      "qualification": "2008년3월 8일 이전 출생자",
+      "start_time": "08:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "a5658354-936c-48d6-b4c7-7065ea0deaca",
+      "race_id": "4445b4e5-7dc8-42eb-bdc3-18ce38af98cf",
+      "name": "10KM",
+      "fee": 60000,
+      "qualification": "2012년3월 8일 이전 출생자",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "d8e63738-18d3-4f3c-9482-84c610682766",
+      "race_id": "4445b4e5-7dc8-42eb-bdc3-18ce38af98cf",
+      "name": "5KM",
+      "fee": 40000,
+      "qualification": "2012년3월 8일 이전 출생자",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "https://cdn.imweb.me/thumbnail/20251217/5d0389925e887.png",
+      "text": "2026 GOYANG HALF MARATHON"
+    },
+    {
+      "url": "https://cdn.imweb.me/upload/S20231227feb335fc0f932/ba61478b0481c.png",
+      "text": "HALIEI CC"
+    },
+    {
+      "url": "https://cdn.imweb.me/thumbnail/20251217/628aca24b815e.png",
+      "text": "2026 GOYANG HALF MARATHON"
+    },
+    {
+      "url": "https://cdn.imweb.me/thumbnail/20251217/e15cdb470f63e.png",
+      "text": "25. 11. 11(화) 10시\n본 접수(래플) 오픈 및 접수\n25. 11. 12(수) 17시\n본 접수 신청 마감\n25. 11. 14(금) 13시\n당첨자 안내 (당첨자 개별 안내)\n25. 11. 14(금) 13시 ~ 11.19(수) 15시\n당첨자 등록 및 결제 마감"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "34935852-2620-4218-98c2-b660cd2f8a3a",
+  "title": "제18회 전국새해 알몸마라톤대회",
+  "source_url": "http://r.dgrunner.co.kr",
+  "event_date": "2026-01-04T00:00:00",
+  "country": "한국",
+  "region": "대구",
+  "venue": "대구두류공원 -2.28 자유광장 (구.두류야구장)",
+  "organizer": "대구광역시육상연맹",
+  "organizer_rep": null,
+  "phone": "010-3503-4558",
+  "email": null,
+  "website": "http://r.dgrunner.co.kr",
+  "image_url": null,
+  "general_guide": "2026년 1월 4일 대구두류공원에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "7e4c3fa1-30b9-4e7c-a92f-de40106f45f9",
+      "race_id": "34935852-2620-4218-98c2-b660cd2f8a3a",
+      "name": "5km(학생)",
+      "fee": 20000,
+      "qualification": "신체 건강한 남.녀(나이제한 없음, 단 등록선수는 제외)",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "bd83ff00-dea8-4c6f-a2dc-c3daba62f728",
+      "race_id": "34935852-2620-4218-98c2-b660cd2f8a3a",
+      "name": "5km(일반)",
+      "fee": 30000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "495c6c1c-4fdb-4fa4-bc7a-0907a93a4d60",
+      "race_id": "34935852-2620-4218-98c2-b660cd2f8a3a",
+      "name": "10km",
+      "fee": 40000,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://r.dgrunner.co.kr/images/sub_main3.jpg",
+      "text": "2015"
+    }
+  ]
+}

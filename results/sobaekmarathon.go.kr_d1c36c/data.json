@@ -1,0 +1,93 @@
+{
+  "id": "bd3655b1-c64e-4648-87e5-c5d8f4912a07",
+  "title": "2026 영주소백산마라톤대회",
+  "source_url": "http://www.sobaekmarathon.go.kr",
+  "event_date": "2026-04-05T00:00:00",
+  "country": "한국",
+  "region": "영주",
+  "venue": "영주시민운동장",
+  "organizer": "영주시",
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://www.sobaekmarathon.go.kr",
+  "image_url": null,
+  "general_guide": "2026년 4월 5일 영주시민운동장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "0f83adf7-0abd-4a41-bf1b-4319b15c487d",
+      "race_id": "bd3655b1-c64e-4648-87e5-c5d8f4912a07",
+      "name": "풀",
+      "fee": 50000,
+      "qualification": "19세 이상",
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "e79e1d7a-4bc0-499f-976d-c4a1d61cd172",
+      "race_id": "bd3655b1-c64e-4648-87e5-c5d8f4912a07",
+      "name": "하프",
+      "fee": 40000,
+      "qualification": "19세 이상",
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "458e37c9-a7df-4dbf-9271-c158e0c2b2ef",
+      "race_id": "bd3655b1-c64e-4648-87e5-c5d8f4912a07",
+      "name": "10km",
+      "fee": 30000,
+      "qualification": "14세 이상",
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "cb3e8167-debd-49ba-aa11-462d7fb6ad22",
+      "race_id": "bd3655b1-c64e-4648-87e5-c5d8f4912a07",
+      "name": "5km",
+      "fee": 20000,
+      "qualification": "신체 건강한 남녀 누구나",
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.sobaekmarathon.go.kr/yeongju/image/shuttle_bus_s.png",
+      "text": "01\no 개인참가자 무료셔틀버스 운행계획\n운영계획\n2025 영주소백산마라톤대회 개인참가자 무료셔틀버스를\n다음과 같이 운영할 예정입니다.\n운영지역 : 서울, 인천, 대전, 대구, 울산, 부산\n운영조건 : 참가자 30명 이하 신청지역은 운행하지 않습니다.\n서울\n〉〉〉〉〉\n인천\n개인참가신청\n〉〉〉〉〉\n대전\n복편\n영주시민운동장\n15:30PM 출발\n(1)잠실운동장역 6번출구 / (2) 서울역 스퀘어빌딩 앞\n(1)19:00 / (2)19:30PM /도착\n참가자 외에는 탑승할 수 없습니다.\n√ 정시 출발합니다.\n왕복무료운행합니다.\n셔틀버스 신청은 개인참가 신청시\n√ 옵션에서 선택할 수 있습니다.\n개인참가신청\n〉〉〉〉〉\n대구\n개인참가신청\n복편\n영주시민운동장\n15:30PM 출발\n인천터미널역 2번출구 앞\n19:00PM /도착\n참가자 외에는 탑승할 수 없습니다.\n√ 정시 출발합니다.\n왕복무료운행합니다.\n√ 셔틀버스 신청은 개인참가 신청시\n개인참가신청\n〉〉〉〉〉\n울산\n옵션에서 선택할 수 있습니다.\n개인참가신청\n복편\n영주시민운동장\n15:30PM\n출발\n월드컵경기장 정문 앞\n18:30PM 도착\n√ 참가자 외에는 탑승할 수 없습니다.\n√ 정시 출발합니다.\n왕복무료운행합니다.\n셔틀버스 신청은 개인참가 신청시\n√ 옵션에서 선택할 수 있습니다.\n개인참가신청\n〉〉〉〉〉\n부산\n개인참가신청\n복편\n영주시민운동장\n15:30PM\n출발\n(1)반월당 동아쇼핑 앞 / (2) 홈플러스 성서점 앞\n(1)18:00 / (2)18:30PM 도착\n√ 참가자 외에는 탑승할 수 없습니다.\n√ 정시 출발합니다.\n√ 왕복무료운행합니다.\n셔틀버스 신청은 개인참가 신청시\n√ 옵션에서 선택할 수 있습니다.\n개인참가신청\n〉〉〉〉〉\n개인참가신청\n복편\n영주시민운동장\n15:30PM 출발\n신복로타리(버스환승장)앞\n18:00PM /도착\n개인참가신청\n참가자 외에는 탑승할 수 없습니다.\n정시 출발합니다.\n왕복무료운행합니다.\n셔틀버스 신청은 개인참가 신청시\n√ 옵션에서 선택할 수 있습니다.\n개인참가신청\n복편\n영주시민운동장\n15:30PM 출발\n부산교대 한양프라자 앞\n19:00PM/도착\n참가자 외에는 탑승할 수 없습니다.\n정시 출발합니다.\n√ 왕복무료운행합니다.\n셔틀버스 신청은 개인참가 신청시\n√ 옵션에서 선택할 수 있습니다.\n개인참가신청"
+    },
+    {
+      "url": "http://www.sobaekmarathon.go.kr/yeongju/image/_temp_sub_banner02.png",
+      "text": "배너이미지 02"
+    },
+    {
+      "url": "http://www.sobaekmarathon.go.kr/yeongju/image/_temp_relate02.png",
+      "text": "②每日新聞"
+    }
+  ]
+}

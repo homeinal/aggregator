@@ -1,0 +1,67 @@
+{
+  "id": "ef67436b-ff90-4458-8a63-2e34337b3a39",
+  "title": "2026 부천국제 10km 로드레이스",
+  "source_url": "http://bskrun.co.kr/",
+  "event_date": "2026-03-08T00:00:00",
+  "country": "한국",
+  "region": "부천",
+  "venue": "부천중앙공원 ~ 심곡천 일원",
+  "organizer": "한국실업육상연맹, 부천시체육회",
+  "organizer_rep": null,
+  "phone": "032-613-7524",
+  "email": "bskrun@naver.com",
+  "website": "http://bskrun.co.kr/",
+  "image_url": null,
+  "general_guide": "2026년 3월 8일 부천중앙공원 ~ 심곡천 일원에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "c63dfc9e-bd10-41dc-b003-31dcffcada54",
+      "race_id": "ef67436b-ff90-4458-8a63-2e34337b3a39",
+      "name": "10km",
+      "fee": null,
+      "qualification": "누구나 참여가능",
+      "start_time": "08:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "93270fba-1de7-4f03-9317-9c7c1858cf0e",
+      "race_id": "ef67436b-ff90-4458-8a63-2e34337b3a39",
+      "name": "3.5KM 건강달리기",
+      "fee": null,
+      "qualification": "누구나 참여가능",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://bskrun.co.kr/assets/imgs/main_sub04.jpg",
+      "text": "10KM COURSE MAP\n300т\n주요경유지\nstart\n1Km\n2Km\nSTART\nFINSH\n9Km\n8Km\n#2360\n5Km\n7Km\n6Km"
+    },
+    {
+      "url": "http://bskrun.co.kr/assets/imgs/10km.jpg",
+      "text": "10KM COURSE MAP\n춘의역\nChunui Station\n3Km\n종합운동장역\nBucheon Stadium Station\n부천종합운동장\nBucheon Stadium\n부천시청역\nBucheon City Hall Station\n1Km\n2km\n4Km\n1급수지\n신중동역\nSTART\nSinjung-dong Station\n目\n포도마을사거리\n부천시청\nPodomaeul Intersection\nBUCHEON CHITY HALL\nFINSH\n번영사거리\nBeon-yeong Intersection\n부명사거리\nBumyeong intersection 9Km\n8Km\n소방서사거리\n• 2급수지\nFire station intersection\n5Km\n7Km\n심곡천사거리\nSimGokCheon Intersection\n부천성모병원\n주요경유지\n부천시청(start) → 부천시청역 → 계남고가교(고가)→ 춘의역 → 종합운동장역 → 멀뫼사거리\n→ 심곡천사거리 → 소방서사거리 → 번영사거리→부평사거리 → 포도마을사거리 → 부천시청(finish)\n※코스는 대회 사정에 따라 변동될 수 있습니다.\nSt. Mary's\nUniversity hospital\n2026 BUCHEON ROAD RACE\n6Km\n멀뫼사거리\nMermoe intersection"
+    },
+    {
+      "url": "http://bskrun.co.kr/assets/imgs/host02.jpg",
+      "text": "KTFL 한국실업육상연맹\nKOREA TRACK & FIELD LEAGUE"
+    },
+    {
+      "url": "http://bskrun.co.kr/assets/imgs/main_sub03.jpg",
+      "text": "FRONT\nZFT\nBACK\n2FIT\n기능성 티셔츠\n다시는 부천\n시민과함께\nG"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ee878893-5f78-43cf-b9cd-1968ca2fd308",
+  "title": "2026 군산새만금 마라톤대회",
+  "source_url": "http://gunsanmarathon.com",
+  "event_date": "2026-04-05T00:00:00",
+  "country": "한국",
+  "region": "군산",
+  "venue": "월명종합운동장",
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": "070-5121-2825",
+  "email": null,
+  "website": "http://gunsanmarathon.com",
+  "image_url": null,
+  "general_guide": "2026년 4월 5일 군산 월명종합운동장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "dd5b02c3-a760-4e95-b4a2-694b4f4e4b53",
+      "race_id": "ee878893-5f78-43cf-b9cd-1968ca2fd308",
+      "name": "풀코스",
+      "fee": 60000,
+      "qualification": "신체 건강한 남녀로서 참가자 유의사항에 동의한 자",
+      "start_time": "07:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "47e82a19-ba9a-41fc-af75-e1d4abea2dca",
+      "race_id": "ee878893-5f78-43cf-b9cd-1968ca2fd308",
+      "name": "하프앤하프",
+      "fee": 90000,
+      "qualification": "신체 건강한 남녀로서 참가자 유의사항에 동의한 자 (2인)",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "775ca246-be8e-4ee3-aed7-c0ec269f288e",
+      "race_id": "ee878893-5f78-43cf-b9cd-1968ca2fd308",
+      "name": "10Km",
+      "fee": 40000,
+      "qualification": "신체 건강한 남녀로서 참가자 유의사항에 동의한 자",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "5d7edf80-7c29-43d4-a7a4-b8792ea473e7",
+      "race_id": "ee878893-5f78-43cf-b9cd-1968ca2fd308",
+      "name": "5Km",
+      "fee": 25000,
+      "qualification": "신체 건강한 남녀로서 참가자 유의사항에 동의한 자",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://gunsanmarathon.com/img/index/org-volunteer.png",
+      "text": "(이)군산시자원봉사센터\nGunsan Volunteer Center"
+    },
+    {
+      "url": "http://gunsanmarathon.com/img/index/menu-icon4.png",
+      "text": "?="
+    },
+    {
+      "url": "http://gunsanmarathon.com/img/index/org-kaaf.png",
+      "text": "KAAF\n대한육상연맹"
+    },
+    {
+      "url": "http://gunsanmarathon.com/img/index/org-jsaaf.png",
+      "text": "JSAAF\n전북특별자치도육상연맹"
+    }
+  ]
+}

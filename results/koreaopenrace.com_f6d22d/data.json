@@ -1,0 +1,82 @@
+{
+  "id": "d1abe797-bc5e-4d00-a3c0-7d1398b7cfc9",
+  "title": "제4회 코리아오픈레이스",
+  "source_url": "http://www.koreaopenrace.com",
+  "event_date": "2026-03-07T00:00:00",
+  "country": "한국",
+  "region": "서울",
+  "venue": "뚝섬한강공원 수변광장",
+  "organizer": "굿피플착한사람들 / 컬처런",
+  "organizer_rep": null,
+  "phone": null,
+  "email": "runct@naver.com",
+  "website": "http://www.koreaopenrace.com",
+  "image_url": null,
+  "general_guide": "2026년 3월 7일 서울 뚝섬한강공원 수변광장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "c344bde4-d2b1-4ba7-a61d-58d358f330c5",
+      "race_id": "d1abe797-bc5e-4d00-a3c0-7d1398b7cfc9",
+      "name": "하프",
+      "fee": 65000,
+      "qualification": "신체건강한 남녀",
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "4a13c356-07f5-40e8-9895-9b67f4e66761",
+      "race_id": "d1abe797-bc5e-4d00-a3c0-7d1398b7cfc9",
+      "name": "10km",
+      "fee": 60000,
+      "qualification": "신체건강한 남녀",
+      "start_time": "09:10",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "1b994177-2550-44e2-9d4d-1467077f1ea2",
+      "race_id": "d1abe797-bc5e-4d00-a3c0-7d1398b7cfc9",
+      "name": "5km",
+      "fee": 45000,
+      "qualification": "신체건강한 남녀",
+      "start_time": "09:20",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.koreaopenrace.com/admin/data/webedit/20250120162758465432708.jpg",
+      "text": "그래미 여명808"
+    },
+    {
+      "url": "http://www.irunman.kr/admin/data/webedit/20220701132808_qxtfxhcd.jpg",
+      "text": "교\n회기역\n시립대학교\n\"부간선도로\nIC 수석\n면목역\n구리시청\n하프코스 반환점\nIC 토평\nㅇ사가정역\np용마산역\n강동대교\n아차산\n(287m)\n십리역\n한강\n중곡역\n역\n장한평역\n서울암사동유적\n부간선도로\n⑥ 군자역\n아차산역\nW서 커힐\n세종대학교\n/어린이대공원\nSTART&FINISH\nㅇ광나\n뚝섬유원지 수변마당\n10km코스 반환점 다리역\n-천호대교\n상일동역\n고덕역\"\nㅇ명일역\n암사역\n영동대교\n뚝섬유원지역\n올림픽대교\n터미\n담대교-\n잠실대교\n5km코스 반환점\n⑥ 천호역\n길동역 43\n0강동역)\n강동구\n둔촌동역\n서울아산병원\nQ잠실나루역\n올림픽공원\n역\n강북보금자리\n반에 거기 그\n'미사강변\nIC상일\n100"
+    },
+    {
+      "url": "http://www.koreaopenrace.com/dorun/images/goods.jpg",
+      "text": "코리아오픈레이스\n기념품 준비중\n3250\n055\n||||\n0084\nDOD"
+    },
+    {
+      "url": "http://www.irunman.kr/admin/data/webedit/20220701133729_vyfrxocb.jpg",
+      "text": "200m\n150m\n100m\n50m\nOm\n0.0km\n1.0km\n2.0km\n3.0km\n4.0km\n5.0km\n6.0km\n7.0km\n8.0km\n9.0km\n10.0km"
+    }
+  ]
+}

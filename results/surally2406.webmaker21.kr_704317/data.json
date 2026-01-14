@@ -1,0 +1,116 @@
+{
+  "id": "f3b265f2-d876-4140-9b33-4194382bd4fe",
+  "title": "서울트레일런",
+  "source_url": "http://surally2406.webmaker21.kr/competition/outline?ca_id=01&wm_id=19",
+  "event_date": null,
+  "country": "한국",
+  "region": "서울",
+  "venue": null,
+  "organizer": null,
+  "organizer_rep": null,
+  "phone": null,
+  "email": null,
+  "website": "http://surally2406.webmaker21.kr/competition/outline?ca_id=01&wm_id=19",
+  "image_url": null,
+  "general_guide": "서울에서 제일 난이도가 있는 코스로써 국제대회를 열기위한 지속적인 선수 양성을 위한 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "dc0f39b1-e5fd-4cf5-8baa-30752b1589c2",
+      "race_id": "f3b265f2-d876-4140-9b33-4194382bd4fe",
+      "name": "15km",
+      "fee": null,
+      "qualification": null,
+      "start_time": "10:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "8208c83c-ab4f-462d-8766-702dddfb524e",
+      "race_id": "f3b265f2-d876-4140-9b33-4194382bd4fe",
+      "name": "20km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "1410a75c-fa8c-48c4-a9ab-3e059a309b23",
+      "race_id": "f3b265f2-d876-4140-9b33-4194382bd4fe",
+      "name": "30km",
+      "fee": null,
+      "qualification": null,
+      "start_time": "07:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "8bf8eafb-d198-496f-b016-4a33ea416049",
+      "race_id": "f3b265f2-d876-4140-9b33-4194382bd4fe",
+      "name": "50km",
+      "fee": null,
+      "qualification": null,
+      "start_time": "05:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "117989ad-ac60-4a84-ad03-a6051b7a68af",
+      "race_id": "f3b265f2-d876-4140-9b33-4194382bd4fe",
+      "name": "109km",
+      "fee": null,
+      "qualification": null,
+      "start_time": "16:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://surally2406.webmaker21.kr/superboard/data/editor/2511/20251106172101_bhxHfN4kJxE2GjWj34strrRSuvLRJn.jpg",
+      "text": "양주시립장욱진미술관 미\n39\n의정부동\n의정부시\n부곡리\n용현동\n용암리\n벽제동\n신곡지\n367\n일명리\n장흥면\n00\n산곡동\n호원동\n신한대\n장암동\n별내면\n청학리 5\n고양동\n자동\n일영유원지\n100\n교현리\n선유동\n서울창포원\n371\n삼송동\n도봉동\n금바위저수지\n우이동계곡\n효자동\n도봉구\n오금동\n지축동\n방학동\n우이동\n(61)\n(솔밭공원\n쌍문동\n북한산성\n창동\n3\n상계동\n노원구\n100\n서울특별시\n경기도\n별내동\n광전리\n29\n퇴계원읍\n내곡\n강북구\n동산동\n진관동\n부산\n국립공원\n대한불교조계종 화계사\n하계동\n사노동\n공룡동\n갈매동\n월계동 61\n고양 서오릉\n용두동\n북서울 꿈의숲\n29\n갈현동\n미아동\n은평구\n구기동\n정릉동\n장위동\n대조동\n평창동\n북부간선도로\n묵동\n신내동\n인창동\n구산동\n석관동\n100\n역촌동\n녹번동\n북악 팔각정\n성북구\n하월곡동\n3\n향동동\n이문동\n망우동\n성북동\n돈암동\n중랑구\n구리시\n신사동\n응암동\n부암동 종로구\n홍은동\n고려대학교\n회기동\n도움\n수택동\n삼청동\n20 교문동\n30\n홍제동\n혜화동 삼선동5가\n청량리동\n휘경동\n수색동\n증산동\n경복궁 어\nㅇ 창덕궁 안암동3가 제기동\n동대문구\n보문동7가\n토평동\n(북가좌동\n6\n서대문구\n무악춤\n송현동\n30\n현저동\n원남동\n인의동\n숭인동\n연세대학교 신촌캠퍼스\n용마폭포공원 20\n답십리동 장안동\n61\n아천동\n48\n연남동\n북아현동\n마포구\n동교동·\n을지로2가\n남대문로3가\n남창동\n주교동\n오장동\n중구 장충동1가\n흥인동\n도선동\n30\n중곡동\n용답동\n신당동\n행당동\n아차산로\n망원동\n아현동\n서울특별시\n금호동2가\n성동구\n어린이대공원\n양화동\n공덕동\n합정동\n광진구\n광장동\nRD\n금호동4가\n6\n당인동\n신공덕동\n암사동\n천호동\n강동구\n양평동6가\n양평동5가\n전쟁기념관 대\n□ 리움미술관\n건국대학교\n70\n성수동2가\n일감호\n양평동4가\n70\n청암동\n•신계동\n양평동\n양평동3가\n여의도한강공원 용산구\n한류스타거리 O\n풍납동\n(70\n당산동3가\n<용산동5가\n보광동\n(61)\n신천동\n당산동2가 영등포구\n88\n주성동\nㅇ 가로수길\n70\n(88)\n88\n문래동3가 영등포동1가\n88\n바카고 이\n잠원동\n성내동\n88호수\n방이동\n서울특별시"
+    },
+    {
+      "url": "http://www.xn--oi2bscs8eswnfjha816s.kr/data/editor/2407/cb938e9a2f7a1ce0dad569463d782bd1_1722328801_0591.jpeg",
+      "text": "Did Not Finish (DNF): DNF is the designation given when a runner does not complete the course\ndue to injury, violation of regulations, at the insistence of race staff or any other reason.\nDid Not Start (DNS): DNS is the designation given when a runner decides not to complete the\ncourse before passing the start line.\nDisqualified (DSQ): When a runner is disqualified from the race.\nGPX File: A type of GPS file that contains course information and maps that may be viewed on\nmobile or watch devices\n4. Standards for Operations and Decision-making\nThe race will begin at a predetermined place and time, and participants must move along the course\nwith only their own body, as in by running or walking, and follow the entire course within the\ndesignated race duration until reaching the finish line.\nParticipants will be selected for awards based on their arrival time and according to race distance\ncategory and gender division.\n1) The first ranking is determined on-site by the referee and judges of the competition, and the\nranking is fixed unless there are any objections raised by other participants or the organizing\ncommittee before the awards ceremony.\n2) When an objection is raised, the objector must present clear evidence and/or witnesses for the\nreason of objection, and if the objection is recognized, the ranking may change.\n5. Eligibility\nParticipants must be physically healthy adults aged 18 or older on the day of the competition.\nMinors may participate in certain race categories with the consent of a legal guardian. Participants\nwith health issues diagnosed by a professional medical institution or who are deemed unable to\nparticipate will not be allowed to compete. Participants are solely responsible for any accidents or\ndisadvantages that occur during their participation in violation of these rules.\nThe race organizer has the right to request records of previous trail running races to assess\neligibility for certain race distances and difficulty. Failure to submit these records will result in\ndisqualification from participation.\n6. Basic Requirements for Participation\n1) Participant Agreement form (#Attachment 1.) in which participants agree to abide by the rules\nand regulations related to this trail running event.\n2) The participation fee must be paid to the designated bank account within the registration\ndeadline. Refunds must be requested as well within this deadline. Once this deadline has passed, no\nchanges may be made to registration.\n3) Transferring of race bibs for any reason is strictly prohibited. Those who are found to be wearing\na bib that does not match the person who registered will be disqualified.\n4) Participants are given the right to attend the race and receive all related benefits (souvenirs,\nawards, etc.). If unable to attend due to personal reasons, registered participants may designate\nanother participant to receive their souvenir or apply for collection according to the procedure of the\nrace organizer within the designated period."
+    },
+    {
+      "url": "http://www.xn--oi2bscs8eswnfjha816s.kr/data/editor/2407/cb938e9a2f7a1ce0dad569463d782bd1_1722328800_1592.jpeg",
+      "text": "SEOUL ULTRA RALLY\nRace Regulations\nThe following regulations apply to the trail running event hosted by Seoul Ultra Rally. Participants\nmust understand and strictly follow these regulations.\n1. Race Organizing Committee\nThe race organizing committee is formed with the following members whose duty it is to facilitate a\nsafe and well-functioning event.\nPresident: Race directing\nHead of Operations: Employee dedicated to the operation of the race event\nHead of Promotion: Employee dedicated to promotion of the event and securing partnerships\nTiming Judge: Employee dedicated to the overall management of race start and finish timing,\nparticipant records, and ranking.\nOther positions determined by President: Operations personnel who cover additional needs related\nto event management\n2. Race Description and Distance Categories\nSeoul Ultra Rally defines \"trail running\" as a type of running event that takes place primarily in\nmountainous terrain, including well-maintained and unmaintained hiking trails, official park trails\n(dulegil), gravel roads, and connecting urban paved roads or pedestrian walkways that are\ndesignated as part of the running course by the race organizer.\n3. Key Terms\nUnderstanding the following terms is necessary for participants to fully understand related\ninformation and announcements before and during the race. The following terms are used generally\nin all international trail races.\nCut-off Time: The time by which runners must arrive to continue with the race. Runners who do not\narrive by cut-off time are disqualified.\nMarking: Temporary signs, ribbons, or other markings that provide information to runners on the\ncourse direction.\nCheck Point (CP): Points along the course where runners/participants have time checks, can assess\ntheir physical condition, and refuel. All runners are required to pass through the check points, and\nthose who miss the check points will be disqualified.\nCourse Marshal/Volunteer/Medical Staff: A course marshal, volunteer, or medical staff is any\nperson who is tasked with providing course directions, traffic control, marking, or emergency\nresponse services for the runners during the duration of the race.\nSweeper: The sweeper is a volunteer who runs alongside the final runners within the cut-off time, or\nwho prevents those who have exceeded cut-off time from continuing. Any runners who remain\nbehind the sweeper are automatically disqualified."
+    },
+    {
+      "url": "http://surally2406.webmaker21.kr/superboard/data/siteconfig/20250603160419_683e9e73e6326_7415b1ea4a83ff7192839246f3c2568a965c572e.png",
+      "text": "OLIRA"
+    },
+    {
+      "url": "http://www.xn--oi2bscs8eswnfjha816s.kr/data/editor/2407/cb938e9a2f7a1ce0dad569463d782bd1_1722328801_9537.jpeg",
+      "text": "Participants are responsible for checking notices from the race organizer via the organizer website,\ngroup chat, or social media. Participants are responsible for familiarizing themselves with the race\nday information, regulations, and GPX files (course maps).\n7. Required Gear\nRunners must come prepared with the required gear specified by the race organizer according to\ntheir race distance and difficulty level. Failure to wear or carry the required items will result in\ninability to participate, disqualification, or time penalties.\nGear checks may be conducted at any time before, during, or after the race.\n*The required gear is listed in #Appendix2.\n8. Reasons for Disqualification\n1) Failure to register within the designated period or failure to submit the participation consent and\nagreement form.\n2) Not wearing one's assigned bib or wearing someone else's bib.\n3) Causing damage to course marking or signs prepared by the race organizer.\n4) Deviating from the course, taking shortcuts, or not passing through checkpoints (CPs).\n5) Interfering with the performance of other participants.\n6) Engaging in verbal abuse, swearing, shouting, or other unsportsmanlike behaviors during the\nrace.\n7) Non-compliance with instructions of race officials or staff.\n8) Decision to stop race progress before or during the race.\n9) Violation of traffic regulations on road sections.\n10) Using any other form of transportation besides running or walking.\n11) Utilizing outside crews or undesignated supply locations. Only official checkpoints may be\nutilized.\n12) Littering or damage to the natural environment at any point of the course.\n13) Positive result of doping test.\n14) Violation of other grounds for disqualification that are determined by the race organizer.\n*Participants who receive serious violations may be prohibited from participating in future races.\n9. Safety and Injury Prevention\nParticipants are solely responsible for avoiding injury and responding to accidents that may occur\nduring the race.\nThe following procedure should be followed in case of injury.\n1) Call the emergency contact number listed on the bib.\n2) If the emergency contact is unavailable, contact emergency services at 119.\n3) Make your situation known to other participants or race staff so that they may communicate\nyour need for assistance to the race organizers.\n4) If possible, make your way to the nearest CP or urban area.\n5) Use your first aid kit (items listed under required gear) to provide yourself with any emergency\ncare needed while waiting for assistance."
+    }
+  ]
+}

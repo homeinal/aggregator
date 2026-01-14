@@ -1,0 +1,82 @@
+{
+  "id": "e22221fd-f791-4f29-93e7-0bd61224a403",
+  "title": "2026 부안해변마라톤대회",
+  "source_url": "http://www.buanmarathon.kr",
+  "event_date": "2026-04-19T00:00:00",
+  "country": "한국",
+  "region": "부안군",
+  "venue": "변산해수욕장",
+  "organizer": "부안육상연맹",
+  "organizer_rep": null,
+  "phone": "010-7400-3801",
+  "email": "7focus@naver.com",
+  "website": "http://www.buanmarathon.kr",
+  "image_url": null,
+  "general_guide": "2026년 4월 19일 부안군 변산해수욕장에서 개최되는 마라톤 대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "6c206dd8-1d62-4658-b927-e4d79e69b9a1",
+      "race_id": "e22221fd-f791-4f29-93e7-0bd61224a403",
+      "name": "하프",
+      "fee": null,
+      "qualification": null,
+      "start_time": "09:00",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "765c391c-ad4f-4311-9c1c-7cc00a9f9998",
+      "race_id": "e22221fd-f791-4f29-93e7-0bd61224a403",
+      "name": "10km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "1391e2dc-208e-492d-9628-508cd6f4e0d3",
+      "race_id": "e22221fd-f791-4f29-93e7-0bd61224a403",
+      "name": "5km",
+      "fee": null,
+      "qualification": null,
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.buanmarathon.kr/images/2026_main1_3.jpg",
+      "text": "일시\n2026.4.19 09:00\n장소] 부안군 변산해수욕장\n접수일 2025. 12. 12(금) 부터~\n종목별 선착순 마감 / 총 4,000명\n종목\n하프 10km 5km"
+    },
+    {
+      "url": "http://www.buanmarathon.kr/images/2026_main3_3.jpg",
+      "text": "대회요강\n대회코스 ㄹㄹ\n접수확인 7\n공지사항"
+    },
+    {
+      "url": "http://www.buanmarathon.kr/images/2026_main6_1.jpg",
+      "text": "\"부안마실길 H\n부안청자박물관\nBuan Celadon Museum\n여행의 끌림♥\n부안군 부안문화관광\n코스)"
+    },
+    {
+      "url": "http://www.buanmarathon.kr/images/2026_cos1.jpg",
+      "text": "대회 코스\n코스도\n하프\n2차반환\n'새만금방조제\n1급수\n조개미교\n팔각정 4\n@ 주차장\n방포마을\n변산해수욕장\n주차장\n운영본부 START\nFINISH\n+응급센터\n변산교차로\n고도(m) 10km, 하프\n전망대\n암벽장\n2026\n부안해변마라톤대회\n대항리\n대항교차로\n5Km\n반환\n'변산해수욕장 입구\n5km 진입\n고저도\n105급수\n새만금로타리\n새만금홍보관\n2급수\n10km\n반환\n묵정3급수\n삼거리\n하프>\n치\n4급수0\n하프\n1차반환\n부안댐/\n벼락폭포\n100\n80\n60\n대항교차로\n40\n팔각정\n대항리\n20\n10km반환 묵정삼거리 부안댐 새만금방조제(구,도로) 하프 반환\n0\n변산해수욕장\n2.5km\n4.5km 5.5km 7.5km\n12km\n고도(m) 5km\n100\n80\n60\n40\n20\n0\n변산해수욕장\n대항교차로\n5km반환 •\n변산해수욕장 입구\n팔각정\n방포마을\n변산해수욕장\n2.5km\n급수/보급소\n2.5km (대항교차로, 5km 반환점): 물/음료\n4.5km (새만금간척박물관): 물/음료/과일/비스킷\n5.5km (묵정삼거리): 물/음료/과일/비스킷\n7.5km (부안댐 : 하프 1차 반환점): 물/음료\n12km(새만금방조제): 물/음료/과일/비스킷"
+    }
+  ]
+}

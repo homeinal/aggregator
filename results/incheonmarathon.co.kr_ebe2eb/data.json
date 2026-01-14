@@ -1,0 +1,74 @@
+{
+  "id": "f16c79b6-a862-405f-8022-dc7986ac17d0",
+  "title": "제26회 인천국제하프마라톤대회",
+  "source_url": "http://www.incheonmarathon.co.kr/",
+  "event_date": "2026-03-22T00:00:00",
+  "country": "한국",
+  "region": "인천",
+  "venue": "인천문학경기장",
+  "organizer": "인천일보, 대한육상연맹",
+  "organizer_rep": null,
+  "phone": "1866-1718",
+  "email": "isang102@naver.com",
+  "website": "http://www.incheonmarathon.co.kr/",
+  "image_url": null,
+  "general_guide": "2026년 3월 22일 인천문학경기장에서 개최되는 제26회 인천국제하프마라톤대회",
+  "is_featured": false,
+  "categories": [
+    {
+      "id": "4f97dd92-fa7d-4076-8d0d-bc8de6fe35d3",
+      "race_id": "f16c79b6-a862-405f-8022-dc7986ac17d0",
+      "name": "Half",
+      "fee": 50000,
+      "qualification": "만 18세 이상 신체 건강한 남/녀",
+      "start_time": "08:30",
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "36c6b03b-d273-4e07-8d52-4e1ad28482d3",
+      "race_id": "f16c79b6-a862-405f-8022-dc7986ac17d0",
+      "name": "10Km",
+      "fee": 50000,
+      "qualification": "참가 제한 없음",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    },
+    {
+      "id": "0a39a063-960e-4ac9-a13c-5768a4b074e0",
+      "race_id": "f16c79b6-a862-405f-8022-dc7986ac17d0",
+      "name": "5Km",
+      "fee": 45000,
+      "qualification": "참가 제한 없음",
+      "start_time": null,
+      "registration_start_time": null,
+      "application_method": null,
+      "notes": null,
+      "next_registration_at": null,
+      "next_registration_end_at": null,
+      "next_payment_at": null,
+      "next_payment_end_at": null
+    }
+  ],
+  "content_images": [
+    {
+      "url": "http://www.incheonmarathon.co.kr/assets/imgs/page_ready.jpg",
+      "text": "COMING SOON\n페이지 준비중입니다."
+    },
+    {
+      "url": "http://mts.daumcdn.net/api/v1/tile/PNGSD02/v16_xfdwm/latest/4/971/395.png",
+      "text": "누\nP\n01\nSSG랜더스\n유소년 야구교\n풋살경기장\n전기차충전소\n문학시어ㅌ\n문학선수촌\n북문광장\n51\n헬기장 문학정\n인천문학\n[P\n경기장\n주경기장\n학정보\n인천스포츠\n등학교\n과학센터\nA\n보조경기장\nP\n문학종합경기장\n2주차장\nS구역"
+    }
+  ]
+}

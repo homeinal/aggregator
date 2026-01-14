@@ -11,15 +11,20 @@ import json
 from typing import List, Dict, Any, Optional
 
 
-# Few-shot 예시 (입력/출력)
+# Few-shot 예시 (입력/출력) - 접수 정보 포함
 FEW_SHOT_EXAMPLE_INPUT = """
 ## 2026 서울 한강마라톤
 
 ### 대회개요
-- 대회일시: 2026년 4월 19일 (일요일)
+- 대회일시: 2026년 4월 19일 (일요일) 오전 8시
 - 장소: 서울 여의도 한강공원
 - 주최: 서울마라톤협회
-- 문의: 02-1234-5678
+- 문의: 02-1234-5678, seoul@marathon.kr
+
+### 접수 안내
+- 접수기간: 2026년 3월 1일(토) 오전 10시 ~ 3월 15일(토) 마감시까지
+- 접수방법: 선착순 (정원 5,000명)
+- 접수플랫폼: 러너블 앱
 
 ### 종목 및 참가비
 | 종목 | 참가비 | 출발시간 |
@@ -36,8 +41,12 @@ FEW_SHOT_EXAMPLE_OUTPUT = """{
   "venue": "여의도 한강공원",
   "organizer": "서울마라톤협회",
   "phone": "02-1234-5678",
-  "email": null,
+  "email": "seoul@marathon.kr",
   "general_guide": "2026년 4월 19일 서울 여의도 한강공원에서 개최되는 마라톤 대회",
+  "registration_start_date": "2026-03-01T10:00:00",
+  "registration_end_date": "2026-03-15T23:59:59",
+  "registration_method": "선착순",
+  "registration_platform": "러너블 앱",
   "categories": [
     {"name": "풀코스", "fee": 50000, "start_time": "08:00", "qualification": null},
     {"name": "하프", "fee": 40000, "start_time": "08:30", "qualification": null},
